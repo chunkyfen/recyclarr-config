@@ -1,2 +1,2 @@
 # recyclarr-config
-My personal recyclarr config file 
+Simple git for my personal recyclarr yaml file to edit it on the go.
